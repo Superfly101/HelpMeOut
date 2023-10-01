@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header>
+    <header className="px-4 md:px-16">
       <nav className="py-4 flex justify-between items-center">
         <div className="flex gap-2 items-center">
           <Image

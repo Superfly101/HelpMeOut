@@ -10,12 +10,15 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "##120B48",
+          DEFAULT: "#120B48",
           600: "#100A42",
         },
         gray: "#616163",
         inter: "#1B233D",
         sora: "#141414",
+      },
+      gridTemplateColumns: {
+        "16": "repeat(auto-fill, minmax(18rem, 1fr))",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

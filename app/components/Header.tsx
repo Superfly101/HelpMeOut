@@ -4,7 +4,7 @@ import Link from "next/link";
 const Header = () => {
   return (
     <header>
-      <nav className="flex px-8 py-4 justify-between items-center md:px-4">
+      <nav className="py-4 flex justify-between items-center">
         <div className="flex gap-2 items-center">
           <Image
             src="/logo.svg"
@@ -13,7 +13,7 @@ const Header = () => {
             height="50"
             className="w-8"
           />
-          <h3>HelpMeOut</h3>
+          <h3 className="font-[700]">HelpMeOut</h3>
         </div>
 
         <div className="gap-8 hidden md:flex">

@@ -2,7 +2,20 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository, run:
+```bash
+git clone https://github.com/Superfly101/HelpMeOut.git
+cd HelpMeout
+```
+
+Install all dependencies, run:
+```bash
+npm install
+# or
+pnpm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev

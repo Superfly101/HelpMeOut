@@ -16,8 +16,9 @@ const Demo = () => {
           />
           <h4 className="font-[600] text-[#1B233D]">Record Screen</h4>
           <p className="text-gray">
-            Click the "Start Recording" button in our extension. choose which
-            part of your screen to capture and who you want to send it to.
+            Click the `&quot;Start Recording`&quot; button in our extension.
+            choose which part of your screen to capture and who you want to send
+            it to.
           </p>
           <Image
             src="/record-image.png"

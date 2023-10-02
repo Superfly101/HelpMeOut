@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="min-h-screen py-8 flex flex-col justify-center gap-2 lg:flex-row lg:justify-between">
       <div className="flex flex-col justify-center gap-4">
         <h1 className="text-[141414] text-[2.5rem]  font-bold md:text-[3.5rem]">
-          Show Them Don't Just Tell
+          Show Them Don&apos;t Just Tell
         </h1>
         <h4 className="text-[#000000BF]">
           Help your friends and loved ones by creating and sending videos on how
